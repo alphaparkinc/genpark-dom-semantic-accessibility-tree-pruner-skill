@@ -1,0 +1,12 @@
+{
+  "name": "genpark-dom-semantic-accessibility-tree-pruner-skill",
+  "version": "1.0.0",
+  "description": "Compresses raw HTML DOM trees into token-efficient semantic accessibility representations with interactive element IDs for web agents.",
+  "category": "Autonomous Browser Automation & Web Agents",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-dom-semantic-accessibility-tree-pruner-skill",
+  "verified": true,
+  "stars": 8
+}
